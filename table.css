@@ -1,0 +1,29 @@
+body {
+    background: #232323;
+    color: #cfcbc2;
+    font-family: sans-serif;
+}
+table {
+    font-size: 12px;
+    width: 100%;
+}
+th {
+    background: #2f3030;
+    color: #93ba10;
+    text-align: left;
+}
+tr {
+    background: #262626;
+}
+.q {
+    border: 1px solid #4a4945;
+}
+.b {
+    background: #2a2a2a;
+}
+#q {
+    border: 1px solid #4a4945;
+}
+#b {
+    background: #2a2a2a;
+}
